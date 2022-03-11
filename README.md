@@ -1,7 +1,13 @@
-Header
+[![Header](https://github.com/AntonAduisky/antonaduisky/blob/main/assets/CODER.gif)](https://github.com/AntonAduisky)
+--------------------------
 
-About me
+## :v: Hey there :v
+
+--------------------------
 
 Languages and tools
+--------------------------
 
-Follow Me
+Follow Me:
+
+--------------------------
