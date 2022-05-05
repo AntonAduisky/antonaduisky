@@ -54,6 +54,6 @@ Hey there 👋
 
 - <a href="https://t.me/aduiskywalker" target="_blank"> <img src="./assets/Telegram.png" alt="Telegram" height = 20></a>
 - <a  href="https://www.instagram.com/aduiskywalker/" target="_blank"> <img src="./assets/Instagram.png" alt="Instagram" height = 20></a>
-- <a  href="mailto:amltw@yandex.ru" target="_blank"> <img src="./assets/Mail.png" alt="Mail" height = 20></a>
+- <a  href="mailto:anton@aduisky.ru" target="_blank"> <img src="./assets/Mail.png" alt="Mail" height = 20></a>
 
 <!-- -------------------------- -->
