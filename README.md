@@ -8,10 +8,10 @@ Hey there 👋
 <a href="https://github.com/AntonAduisky/mesto-project">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=antonaduisky&repo=mesto-project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/AntonAduisky/mesto-project">
+<a href="https://github.com/AntonAduisky/stellar-burger">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=antonaduisky&repo=stellar-burger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/AntonAduisky/mesto-project">
+<a href="https://github.com/AntonAduisky/todo-react">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=antonaduisky&repo=todo-react&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
