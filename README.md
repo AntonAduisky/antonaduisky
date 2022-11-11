@@ -1,5 +1,9 @@
 <!-- [![Header](https://github.com/AntonAduisky/antonaduisky/blob/main/assets/CODER.gif)](https://github.com/AntonAduisky) -->
-Hey there 👋
+Hey there, my name is Anton 👋
+
+### About me:
+- i'am web-developer from Moscow/Russia
+---
 
 ## 📌 Pinned Repositories
 
